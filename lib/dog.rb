@@ -15,5 +15,8 @@ def initialize(name)
    @@all.clear
  end
  def self.print_all 
-   @@all.each do ||
+   @@all.each do |dogs|
+     puts dog.name 
+   end 
+ end 
 end
