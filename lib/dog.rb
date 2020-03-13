@@ -16,7 +16,7 @@ def initialize(name)
  end
  def self.print_all 
    @@all.each do |dogs|
-     puts dog.name 
+     puts dogs.name 
    end 
  end 
 end
