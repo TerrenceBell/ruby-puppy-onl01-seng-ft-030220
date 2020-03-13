@@ -21,4 +21,5 @@ def initialize(name)
  end
  def save 
    @@all << self
+ end
 end
